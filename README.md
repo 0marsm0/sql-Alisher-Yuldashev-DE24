@@ -1,1 +1,1 @@
-# sql-Alisher-Yuldashev-DE24
+# SQL course using DuckDB
